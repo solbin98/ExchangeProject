@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.project.Dao.MemberDao">
+
+  <select id="getUser" resultType="com.project.Dto.MemberDto">
+    select * from user;
+  </select>
+  
+   <select id="checkLoginInfo" parameterType="com.project.Dto.MemberDto" resultType="com.project.Dto.MemberDto">
+    SELECT * FROM user WHERE user_id = #{member.user_id} and password =#{member.password};
+  </select>
+  
+</mapper>
+
+

@@ -1,0 +1,91 @@
+.buy_side_block{
+	color:white;
+}
+	  
+ .sell_side_block{
+ margin-top:-1px;
+ 	color:white;
+ }
+
+ .buy_side_price_volume_block{
+ 	width:50%;
+ 	text-align:center;
+   border:solid 0.8px;
+ 	border-color: #2F2F31;
+ 	background-color: #68A889;
+ 	margin-top:-1px;
+ }
+ 
+ .sell_side_price_volume_block{
+ 	width:50%;
+ 	text-align:center;
+   border:solid 0.8px;
+ 	border-color: #2F2F31;
+ 	margin-top: 5em;
+ 	background-color: #BD5050;
+ 	margin-top:-1px;
+ }
+ 
+ .price_volume_block_selected{
+ 	width:50%;
+ 	text-align:center;
+ 	border:solid 0.5px;
+ 	border-color: #ffffff;
+ }
+ 
+ .coin_info_table{
+ 	height: 25px; 
+ 	color:white;
+ 	font-size:12px;
+ 	display:flex;
+ 	margin-left:10px;
+ }
+ 
+ .coin_info_block{
+ 	width:32%;
+ 	text-align:center;
+ }
+ 
+ .contract_info_block{
+ 	width:25%;
+ 	text-align:center;
+ 	margin-left:25px;
+ }
+ 
+ .coin_block_up{
+ 	color:#68A889;
+ 	font-size:13px;
+ }
+ 
+ .coin_block_up:hover{
+ 	background:silver;
+ }
+ 
+ .coin_block_down{
+ 	color:#BD5050;
+ 	font-size:13px;
+ 	border:solid 1px;
+ 	border-color: #BD5050;
+ }
+ 
+ .order_layout{
+ 	color : white;
+ 	
+ }
+ .txt{
+ 	background-color : #535151;
+ 	color:white;
+ 	border: none;
+ }
+ .buy_button{
+ 	background-color : #68A889;
+ 	color:white;
+ 	height:45px;
+ 	border: none;
+ }
+ .sell_button{
+ 	background-color : #BD5050;
+ 	color:white;
+ 	height:45px;
+ 	border: none;
+ }

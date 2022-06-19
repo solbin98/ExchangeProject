@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.project.Dao.AssetDao">
+
+  <select id="getAsset" parameterType="com.project.Dto.AssetSearchDto" resultType="com.project.Dto.AssetDto">
+ 	select * from asset where user_id = #{dto.user_id} and coin_number = #{dto.coin_number};
+  </select>
+  
+  
+  
+</mapper>
+
+
+
