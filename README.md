@@ -113,7 +113,7 @@
 
 * 주문 생성 봇이 랜덤하게 결정한 추세가 상당히 강한 모양인지, 솔빈코인이 300% 가량 떡상하는 모습입니다. 
 
-![호가창](https://user-images.githubusercontent.com/76681977/174488245-e857ed8a-1028-4411-8414-5f84035f114a.gif)
+![호가창 파트](https://user-images.githubusercontent.com/76681977/174488503-e35b4dfd-32ca-414f-9fb2-6be2ed74b291.gif)
 
 * 호가창도 바쁘게 움직입니다.
 
