@@ -6,7 +6,7 @@ import random
 
 
 # 해당 코드를 실행하면
-# "http://localhost:8080/project/echo/show" 주소로
+# "http://localhost:8080/project/echo/Order" 주소로
 # 랜덤한 지정가 주문이 0.05초 간격으로 전송됩니다.
 
 
