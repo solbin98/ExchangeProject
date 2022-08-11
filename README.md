@@ -8,7 +8,7 @@
 ![system](https://user-images.githubusercontent.com/76681977/174482746-ddb48f1f-3a96-44ed-baed-7f27ce694e6c.png)
 
 ## 1) 시스템 기능 목록
-구현하고자 하는 기능은 아래와 같습니다.
+구현한 기능은 아래와 같습니다.
 
 * 로그인
 * 차트 인터페이스 
